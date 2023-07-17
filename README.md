@@ -22,3 +22,16 @@ for more details, please refer to `--help` option
 1. download malware/virus samples to local
 2. process these samples into a new file format ( a sha256 string line by line, see `database/db_sample_for_sha256.txt` )
 3. run the script.
+
+## more databases:
+
+(English version)
+
+https://zeltser.com/malware-sample-sources/
+
+(Chinese version)
+
+https://github.com/rshipp/awesome-malware-analysis/blob/main/恶意软件分析大合集.md#恶意软件样本库
+
+
+
